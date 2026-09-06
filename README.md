@@ -1,4 +1,4 @@
-# 🔋 Smart EV Route Planner & Cost Optimizer
+# 🔋 EVRouteAI - Intelligent EV Route & Charging Platform
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
