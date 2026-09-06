@@ -30,8 +30,8 @@ If you wish to run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/vishnu-g-dev/Smart-EV-Route-Planner.git](https://github.com/vishnu-g-dev/Smart-EV-Route-Planner.git)
-   cd Smart-EV-Route-Planner
+   git clone https://github.com/khushijangra8383/EVRouteAI.git
+   cd EVRouteAI
    ```
 
 2. **Install required dependencies:**
@@ -72,4 +72,4 @@ To ensure clean code principles, testability, and separation of concerns, the ap
 * Enhanced regenerative braking algorithms based on specific deceleration profiles.
 
 ---
-*Designed and Developed by [Vishnu G](https://www.linkedin.com/in/vishnu-g-eee164) | Electrical and Electronics Engineering, NSS College of Engineering*
+*Designed and Developed by Khushi Jangra | Guru Gobind Singh Indraprastha University*
